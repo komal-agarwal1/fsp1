@@ -1,0 +1,35 @@
+.maint{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    font-size: large;
+    color: blue;
+}
+.loginform
+{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-direction: column;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.formarea
+{
+    border: black;
+    background-color: rgb(238, 233, 233);
+    border-radius: 15px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-direction: column;
+    padding:10px;
+    gap: 10px;
+}
+.formarea input{
+    border-radius: 7px;
+    border: gray;
+}
+.signin{
+    border-radius: 10px;
+}

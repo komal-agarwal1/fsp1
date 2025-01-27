@@ -1,0 +1,33 @@
+.heading
+{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    font-size: large;
+    color: blue;
+}
+.sublist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: gray;
+    border-radius: 10px;
+    background-color: rgb(216, 214, 214);
+    margin: 0 100px;
+}
+.subbox{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.mainlist{
+    background-color: rgb(233, 230, 230);
+    border-radius: 10px;
+    margin: 0 100px;
+    text-align: center;
+    margin-bottom: 20px;
+}
